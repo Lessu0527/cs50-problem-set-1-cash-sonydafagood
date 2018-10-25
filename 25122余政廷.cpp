@@ -14,10 +14,10 @@ int main() {
   cout <<"," << g << "個10元";
   
   int i=h/c,j=h-i*c;
-  cout<<","<<i<<"個5元";
+  cout <<","<< i << "個5元";
   
   int k=j/d;
-  cout<<"和"<<k<<"個1元"; 
+  cout << "和" << k << "個1元"; 
 
 
 }
